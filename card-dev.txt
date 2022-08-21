@@ -1,0 +1,4 @@
+card.mail.message="Hello Marydas"
+card.mail.subject="test"
+card.branches[0]="alappy"
+card.branches[1]="Ernakulam"
